@@ -1,11 +1,11 @@
 /* global describe, it, expect */
 
-var locomotive = require('..');
+var emvc = require('..');
 
-describe('chai-locomotive-function', function() {
-  
+describe('chai-emvc-function', function() {
+
   it('should export function', function() {
-    expect(locomotive).to.be.an('function');
+    expect(emvc).to.be.an('function');
   });
-  
+
 });

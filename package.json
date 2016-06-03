@@ -1,24 +1,25 @@
 {
-  "name": "chai-locomotive-helpers",
+  "name": "chai-emvc-helpers",
   "version": "0.1.0",
-  "description": "Helpers for testing Locomotive helpers with the Chai assertion library.",
+  "description": "Helpers for testing emvc helpers with the Chai assertion library.",
   "keywords": [
     "chai",
     "locomotive",
+    "emvc",
     "helper",
     "helpers"
   ],
   "author": {
-    "name": "Jared Hanson",
-    "email": "jaredhanson@gmail.com",
-    "url": "http://www.jaredhanson.net/"
+    "name": "Nicholas Penree",
+    "email": "nick@penree.com",
+    "url": "http://www.penree.com/"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/chai-locomotive-helpers.git"
+    "url": "git://github.com/emvc/chai-emvc-helpers.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/chai-locomotive-helpers/issues"
+    "url": "http://github.com/emvc/chai-emvc-helpers/issues"
   },
   "licenses": [
     {

@@ -1,17 +1,17 @@
-# chai-locomotive-helpers
+# chai-emvc-helpers
 
-[![Build](https://travis-ci.org/jaredhanson/chai-locomotive-helpers.png)](https://travis-ci.org/jaredhanson/chai-locomotive-helpers)
-[![Coverage](https://coveralls.io/repos/jaredhanson/chai-locomotive-helpers/badge.png)](https://coveralls.io/r/jaredhanson/chai-locomotive-helpers)
-[![Quality](https://codeclimate.com/github/jaredhanson/chai-locomotive-helpers.png)](https://codeclimate.com/github/jaredhanson/chai-locomotive-helpers)
-[![Dependencies](https://david-dm.org/jaredhanson/chai-locomotive-helpers.png)](https://david-dm.org/jaredhanson/chai-locomotive-helpers)
+[![Build](https://travis-ci.org/emvc/chai-emvc-helpers.png)](https://travis-ci.org/emvc/chai-emvc-helpers)
+[![Coverage](https://coveralls.io/repos/emvc/chai-emvc-helpers/badge.png)](https://coveralls.io/r/emvc/chai-emvc-helpers)
+[![Quality](https://codeclimate.com/github/emvc/chai-emvc-helpers.png)](https://codeclimate.com/github/emvc/chai-emvc-helpers)
+[![Dependencies](https://david-dm.org/emvc/chai-emvc-helpers.png)](https://david-dm.org/jaredhanson/chai-emvc-helpers)
 
 
-Helpers for testing [Locomotive](http://locomotivejs.org/) helpers with the
+Helpers for testing emvc helpers with the
 [Chai](http://chaijs.com/) assertion library.
 
 ## Install
 
-    $ npm install chai-locomotive-helpers
+    $ npm install chai-emvc-helpers
 
 ## Usage
 
@@ -22,13 +22,13 @@ Use this plugin as you would all other Chai plugins:
 ```javascript
 var chai = require('chai');
 
-chai.use(require('chai-locomotive-helpers'));
+chai.use(require('chai-emvc-helpers'));
 ```
 
 #### Write Test Cases
 
-Once used, the `chai.locomotive.helper` and `chai.locomotive.dynamicHelper`
-functions will be available to set up test cases for Locomotive helpers.
+Once used, the `chai.emvc.helper` and `chai.emvc.dynamicHelper`
+functions will be available to set up test cases for emvc helpers.
 
 ## Tests
 
