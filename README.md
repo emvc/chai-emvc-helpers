@@ -1,7 +1,7 @@
 # chai-emvc-helpers
 
-[![Build](https://travis-ci.org/emvc/chai-emvc-helpers.png)](https://travis-ci.org/emvc/chai-emvc-helpers)
-[![Coverage](https://coveralls.io/repos/emvc/chai-emvc-helpers/badge.png)](https://coveralls.io/r/emvc/chai-emvc-helpers)
+[![Build Status](https://travis-ci.org/emvc/chai-emvc-helpers.svg?branch=master)](https://travis-ci.org/emvc/chai-emvc-helpers)
+[![Coverage Status](https://coveralls.io/repos/github/emvc/chai-emvc-helpers/badge.svg?branch=master)](https://coveralls.io/github/emvc/chai-emvc-helpers?branch=master)
 [![Quality](https://codeclimate.com/github/emvc/chai-emvc-helpers.png)](https://codeclimate.com/github/emvc/chai-emvc-helpers)
 [![Dependencies](https://david-dm.org/emvc/chai-emvc-helpers.png)](https://david-dm.org/emvc/chai-emvc-helpers)
 
