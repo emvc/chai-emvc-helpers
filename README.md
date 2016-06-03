@@ -3,7 +3,7 @@
 [![Build](https://travis-ci.org/emvc/chai-emvc-helpers.png)](https://travis-ci.org/emvc/chai-emvc-helpers)
 [![Coverage](https://coveralls.io/repos/emvc/chai-emvc-helpers/badge.png)](https://coveralls.io/r/emvc/chai-emvc-helpers)
 [![Quality](https://codeclimate.com/github/emvc/chai-emvc-helpers.png)](https://codeclimate.com/github/emvc/chai-emvc-helpers)
-[![Dependencies](https://david-dm.org/emvc/chai-emvc-helpers.png)](https://david-dm.org/jaredhanson/chai-emvc-helpers)
+[![Dependencies](https://david-dm.org/emvc/chai-emvc-helpers.png)](https://david-dm.org/emvc/chai-emvc-helpers)
 
 
 Helpers for testing emvc helpers with the
